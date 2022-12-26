@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 # 🙋 Hello
 ## 👋 简单介绍
 💬 欢迎来到我的学习仓库！我是一名苦学C++陷入CV大坑的普通研究生，会在这里更新我的C++学习之路以及刷题笔记。
-
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/JiaoZixun/WebNetwork_Sylar">
@@ -26,7 +25,6 @@ Here are some ideas to get you started:
 </div>
 
 ## 💪 正在学习: 
-
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C++.svg?style=flat-square&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
