@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/JiaoZixun/WebNetwork_Sylar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JiaoZixun&repo=WebNetwork_Sylar&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/sun0225SUN/Student-Data-Vision">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 💪 正在学习: 
 
 &emsp;&emsp;
-![C++](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C++.svg?style=flat-square&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
