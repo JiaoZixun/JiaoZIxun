@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JiaoZixun&repo=WebNetwork_Sylar&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/JiaoZixun/MySTL">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JiaoZixun&repo=MySTL&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=JiaoZixun
 </div>
 
 ## 💪 正在学习: 
