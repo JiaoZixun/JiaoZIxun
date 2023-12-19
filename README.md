@@ -29,6 +29,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JiaoZixun&repo=Distributed-Services-Framework--Distributed-storage&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
 
+<a href="https://github.com/JiaoZixun/Deep-Learning-Guide">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JiaoZixun&repo=Deep-Learning-Guide&theme=dark&bg_color=0d1117&hide_border=true" />
+</a>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JiaoZixun" />
 
   
